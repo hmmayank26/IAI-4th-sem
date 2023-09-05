@@ -4,4 +4,7 @@ Bot_saves_princies ::output->![Screenshot op](https://github.com/hmmayank26/IAI-
 N puzzle::submission->![image](https://github.com/hmmayank26/IAI-4th-sem/assets/123865375/7c69962c-bda1-4aea-9aaa-a1eb821b1bba)
 N puzzle::output->![image](https://github.com/hmmayank26/IAI-4th-sem/assets/123865375/f5f2869e-58ee-4e91-bc29-c65b4744b8e0)
 Basic probability puzzle#2::submission->![image](https://github.com/hmmayank26/IAI-4th-sem/assets/123865375/15ddffed-b2fc-48ab-a2f6-02a2bd772047)
-Basic probability puzzle#2::output->
+Basic probability puzzle#2::output->![image](https://github.com/hmmayank26/IAI-4th-sem/assets/123865375/baaee77a-20cd-4527-b053-5e0e018decb4)
+Packman problem::submission->![image](https://github.com/hmmayank26/IAI-4th-sem/assets/123865375/0f1c3712-79f3-414b-bb9a-1a6747421cb3)
+packman problem:: output->![Screenshot (14)](https://github.com/hmmayank26/IAI-4th-sem/assets/123865375/0be14ad9-549a-45ca-a8d6-2e5e72f9537b)
+
