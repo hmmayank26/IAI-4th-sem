@@ -1,0 +1,19 @@
+def gcd(a, b):
+    while b:
+        a, b = b, a % b
+    return a
+
+def probability():
+    favorable_outcomes = 4  
+    total_possible_outcomes = 36  
+
+   
+    divisor = gcd(favorable_outcomes, total_possible_outcomes)
+
+    simplified_favorable = favorable_outcomes // divisor
+    simplified_total = total_possible_outcomes // divisor
+
+    return f"{simplified_favorable}/{simplified_total}"
+
+
+print(probability())
