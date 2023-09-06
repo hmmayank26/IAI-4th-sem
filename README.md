@@ -11,5 +11,5 @@ Basic probability puzzle#7::submission->![image](https://github.com/hmmayank26/I
 Basic probability puzzle#7::output->![image](https://github.com/hmmayank26/IAI-4th-sem/assets/123865375/e56e4775-93e2-47f9-afb1-1ce9b396b0e2)
 
 Packman problem::submission->![image](https://github.com/hmmayank26/IAI-4th-sem/assets/123865375/0f1c3712-79f3-414b-bb9a-1a6747421cb3)
-packman problem:: output->![Screenshot (14)](https://github.com/hmmayank26/IAI-4th-sem/assets/123865375/0be14ad9-549a-45ca-a8d6-2e5e72f9537b)
+packman problem :: output->![Screenshot (14)](https://github.com/hmmayank26/IAI-4th-sem/assets/123865375/0be14ad9-549a-45ca-a8d6-2e5e72f9537b)
 
